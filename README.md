@@ -1,4 +1,4 @@
-# 🌌 SatInPaint: Satellite Image Inpainting with Diffusion Models
+# 🌌 SatInPaint: Satellite Image Inpainting Through Diffusion Models
 
 Welcome to **SatInPaint**! 🚀 A cutting-edge approach for satellite image inpainting, leveraging diffusion models for efficient, high-quality restoration of missing or corrupted regions in satellite imagery. SatInPaint delivers state-of-the-art performance with reduced computational requirements, supporting both medium and high-resolution datasets such as **LANDSAT-8 (Thailand)** and **Vaihingen and Potsdam**.
 
@@ -83,7 +83,7 @@ If you use SatInPaint in your research, please cite our work:
 
 ```bibtex
 @article{panboonyuen2025satinpaint,
-  title={SatInPaint: Satellite Image Inpainting with Diffusion Models},
+  title={SatInPaint: Satellite Image Inpainting Through Diffusion Models},
   author={Panboonyuen, Teerapong},
   year={2025}
 }
